@@ -142,6 +142,7 @@ public class RCPSPSolver {
 		System.err.println("Time for naive heuristic : " + timeElapsed);
 		m_solution.print(System.err);
 		System.err.flush();
+		System.out.println("essai");
 	}
 
 }
